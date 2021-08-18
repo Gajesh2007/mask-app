@@ -18,16 +18,16 @@ const Info: React.FC<Props> = ({ onDrop }: Props) => {
     <Wrapper>
       <Row middle="xs" center="xs">
         <Col xs={12}>
-          <h1>Uniswap V3 Mask</h1>
+          <h1>Gaj Finance Mask</h1>
           <p>
-            Share your support for Uniswap V3. <br />
+            Share your support for Gaj Finance. <br />
             Upload your photo, choose your mask, and download <br />
             or share with the Twitter button!
           </p>
           <Links>
-            <a href="https://uniswap.org/blog/uniswap-v3" target="_blank" rel="noreferrer">
+            <a href="https://gajfinance.substack.com/p/polygaj-is-now-gaj-finance" target="_blank" rel="noreferrer">
               <IconInfo />
-              <span>V3 Blog Post</span>
+              <span>Rebranding Blog Post</span>
             </a>
           </Links>
           <UploadWrapper>

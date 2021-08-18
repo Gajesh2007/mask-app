@@ -12,8 +12,8 @@ const Header: React.FC = () => {
     <Wrapper>
       <Grid>
         <Logo href="/">
-          <StyledLogo src="/static/images/uni-logo.svg" alt="V3 MASK" />
-          <span>UNI Mask</span>
+          <StyledLogo src="/static/images/gaj-logo.png" alt="GAJ MASK" />
+          <span>GAJ Mask</span>
         </Logo>
       </Grid>
     </Wrapper>
